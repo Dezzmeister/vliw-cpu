@@ -9,3 +9,4 @@
 # Log file: C:/FPGA/VLIW-BEAST/VLIW-BEAST.runs/main_memory_synth_1/main_memory.vds
 # Journal file: C:/FPGA/VLIW-BEAST/VLIW-BEAST.runs/main_memory_synth_1\vivado.jou
 #-----------------------------------------------------------
+source main_memory.tcl -notrace
