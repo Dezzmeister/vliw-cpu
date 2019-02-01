@@ -1,0 +1,27 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 50cc44b8a53249a58d9a7d16e6dffb41 --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_1 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot cpu_top_behav xil_defaultlib.cpu_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_output_stage(...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_output_stage(...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_axi_regs_fwd_v8_4(C_DATA...
+Compiling module blk_mem_gen_v8_4_1.blk_mem_gen_v8_4_1(C_FAMILY="art...
+Compiling module xil_defaultlib.main_memory
+Compiling module xil_defaultlib.dispatcher
+Compiling module xil_defaultlib.dispatcher_delayer
+Compiling module xil_defaultlib.bit_math_unit
+Compiling module xil_defaultlib.execution_core
+Compiling module xil_defaultlib.register_value_chooser
+Compiling module xil_defaultlib.register_manager_default
+Compiling module xil_defaultlib.led_IO_manager
+Compiling module xil_defaultlib.single_port_data_manager
+Compiling module xil_defaultlib.cpu_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_top_behav

@@ -1,0 +1,16 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/ip/main_memory/sim/main_memory.v,1549002278,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/bit_math_unit.v,,main_memory,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/bit_math_unit.v,1548997450,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/dispatcher.v,,bit_math_unit,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/cache_reloader.v,1548737909,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/dispatcher.v,,cache_reloader,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/cpu_top.v,1548990097,verilog,,,,cpu_top,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/dispatcher.v,1549000533,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/dispatcher_delayer.v,,dispatcher,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/dispatcher_delayer.v,1548738313,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/execution_core.v,,dispatcher_delayer,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/execution_core.v,1549001535,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/led_IO_manager.v,,execution_core,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/led_IO_manager.v,1548779273,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/register_manager.v,,led_IO_manager,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/register_manager.v,1548771917,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/register_value_chooser.v,,register_manager,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/register_value_chooser.v,1548777328,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/single_port_data_manager.v,,register_value_chooser,,,,,,,,
+C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/single_port_data_manager.v,1549000252,verilog,,C:/FPGA/VLIW-BEAST/VLIW-BEAST.srcs/sources_1/new/cpu_top.v,,single_port_data_manager,,,,,,,,
