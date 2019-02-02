@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Combinational execution unit module that handles simple bit math
 // 
 // Dependencies: 
 // 
