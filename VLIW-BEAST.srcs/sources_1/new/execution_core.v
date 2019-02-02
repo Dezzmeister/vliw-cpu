@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Runs a stream of instructions obtained from the dispatcher. Each instruction should execute in one clock cycle except for memory read/writes and future instructions.
 // 
 // Dependencies: 
 // 

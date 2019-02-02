@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Not completed: intended for use with a Harvard architecture implementation in the future
 // 
 // Dependencies: 
 // 

@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Combines updated register values from execution units with previous register values to update the register file. A high bit in any execution unit's reg_write_en field signals an updated value for that register from that unit.
 // 
 // Dependencies: 
 // 

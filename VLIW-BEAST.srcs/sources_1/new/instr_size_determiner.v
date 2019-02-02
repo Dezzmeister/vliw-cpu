@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Sets output high when the input opcode expects an operand, so that the dispatcher can append the next quarter word in the cache.
 // 
 // Dependencies: 
 // 
