@@ -9,7 +9,9 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Sends the next instructions in the cache to appropriate execution units. 
+// Each execution unit receives a 32 bit semi-word where the most significant 16 bits contains the 
+// opcode and the least significant bits contains operand(s), or zero if no operands are needed.
 // 
 // Dependencies: 
 // 
